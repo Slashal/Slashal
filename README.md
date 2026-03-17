@@ -1,5 +1,5 @@
 ## Hi there 👋
-![My GitHub Game](https://raw.githubusercontent.com/Slashal/Commit_invader/blob/main/game.gif)
+![My GitHub Game](https://github.com/Slashal/Commit_invader/blob/main/game.gif?raw=true)
 <!--
 **Slashal/Slashal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
