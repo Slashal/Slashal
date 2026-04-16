@@ -15,6 +15,17 @@ Je m’oriente vers le cursus RNCP niveau 7 en cybersécurité, avec pour object
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/500px-Visual_Studio_Code_1.35_icon.svg.png" width="50">  <img width="25">  <img src="https://pngimg.com/uploads/linux/linux_PNG30.png" width="50"> <img width="25">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/3840px-Git_icon.svg.png" width="50">
 
+
+## 💬 Me contacter
+<p style="font-size:0;">
+  <a href="mailto:hguesne@student.42lehavre.fr">
+    <img src="https://static.vecteezy.com/system/resources/thumbnails/052/933/905/small/white-envelope-icon-with-transparent-background-png.png" width="50">
+  </a>
+  <a href="https://www.linkedin.com/in/hugo-guesne/">
+    <img src="https://static.vecteezy.com/system/resources/previews/018/930/480/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" width="50">
+  </a>
+</p>
+
 ## 🛸 Commit invader
 
 ![My GitHub Game](https://github.com/Slashal/Commit_invader/blob/main/game.gif?raw=true)
