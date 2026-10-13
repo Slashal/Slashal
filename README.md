@@ -8,9 +8,7 @@ Je m’oriente vers le cursus RNCP niveau 7 en cybersécurité, avec pour object
 
 ## 💻 Languages
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="50">  <img width="25">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1280px-Python-logo-notext.svg.png" width="50"> <img width="25"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/960px-Bash_Logo_Colored.svg.png" width="50">  <img width="25">
-
-
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="50">  <img width="25">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1280px-Python-logo-notext.svg.png" width="50"> <img width="25"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/960px-Bash_Logo_Colored.svg.png" width="50">  <img width="25"> <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-golang-3d-icon-png-download-7578004.png" width="50">  <img width="25"> <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-javascript-3d-icon-png-download-7577991.png" width="50">  <img width="25"> <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-typescript-3d-icon-png-download-7577992.png?f=webp" width="50">  <img width="25">
 ## ⚙️ Environnement
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/500px-Visual_Studio_Code_1.35_icon.svg.png" width="50">  <img width="25">  <img src="https://pngimg.com/uploads/linux/linux_PNG30.png" width="50"> <img width="25">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/3840px-Git_icon.svg.png" width="50">
